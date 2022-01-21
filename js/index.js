@@ -36,7 +36,7 @@ $(document).ready(function () {
 
 	matchConfig = {
 		gamesPerSet: 6,
-		sets: 3,
+		sets: 5,
 		tieBreakerPoints: 7,
 		players: ['Player 1', 'Player 2'],
 	}
